@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
           <h2>Learn React Hooks</h2>
-          import ""
+          import hook명 from "@hoihooks/hook패키지"
       </header>
     </div>
   );
