@@ -1,0 +1,2 @@
+- 타 function에서 이벤트 처리
+- ...name    //name의 전체 보여줌
